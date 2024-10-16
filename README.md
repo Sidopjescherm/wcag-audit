@@ -21,3 +21,10 @@ Toon een screenshot van het Lighthouse Accessibility testresultaat.
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
+
+- [ ] Je hebt een Lighthouse test gedaan op een bestaande website en de test is gedocumenteerd in de Wiki van deze deeltaak
+- [ ] Je hebt een _keyboard navigatie_ test gedaan op een bestaande website en gedocumenteerd in de wiki
+- [ ] Je hebt een _screen reader_ test gedaan op een bestaande website en gedocumenteerd in de wiki
+- [ ] Je hebt een _interactive elements_ test gedaan op een bestaande website en gedocumenteerd in de wiki
+- [ ] Je hebt een _headings and landmarks_ test gedaan op een bestaande website en gedocumenteerd in de wiki
+
