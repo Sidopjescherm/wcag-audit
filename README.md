@@ -5,7 +5,7 @@ Doe een WCAG audit op een bestaande website uit je eigen omgeving en rapporteer 
 De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/wcag-audit/blob/main/docs/INSTRUCTIONS.md).
  
 
-## Titel Website
+## Coolblue
 
 **Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.**
 *Ik heb de Coolblue website getest, omdat ik bij een Coolblue winkel werk. Coolblue is een webshop die zich specialiseerd in het verkopen van technologie objecten voor alledaags gebruik.
